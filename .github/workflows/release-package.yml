@@ -6,11 +6,6 @@ on:
       - main
   pull_request: {}
 
-defaults:
-  run:
-    working-directory: prisma/
-
-
 jobs:
   build:
     runs-on: ubuntu-latest
