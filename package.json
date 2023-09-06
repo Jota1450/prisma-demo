@@ -1,5 +1,5 @@
 {
-  "name": "@Jota1450/prisma-demo",
+  "name": "@jota1450/prisma-demo",
   "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
@@ -23,6 +23,6 @@
     "typescript": "^5.2.2"
   },
   "publishConfig": {
-    "@Jota1450:registry": "https://npm.pkg.github.com"
+    "@jota1450:registry": "https://npm.pkg.github.com"
   }
 }
